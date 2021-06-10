@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".hakkinda.HakkindaActivity">
+    tools:context=".hakkimda.HakkindaActivity">
 
     <ImageView
         android:id="@+id/imageView2"
@@ -15,14 +15,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/mobilprogramlamafoto" />
+        app:srcCompat="@drawable/abdullahakcakilimage" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:text="Berkay Çavdar"
+        android:text="Abdullah Akçakıl"
         android:textColor="#020101"
         android:textSize="16sp"
         android:textStyle="bold"
@@ -35,7 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="181030050"
+        android:text="191030075"
         android:textColor="#000000"
         android:textSize="16sp"
         android:textStyle="bold"
@@ -50,7 +50,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
-        android:text="Şuanda frelancer olarak makale yazarlığı, web tasarım işleri ile uğraşıyorum. Kendime ait rokethesap.com adlı web sitesini yönetiyorum. Ayrıca ilerleyen dönemler için web sitesi projeleri ile çalışma hayatıma devam ediyorum."
+        android:text="2015 yılından bu yana SGK'da memur olarak görev yapıyorum."
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="16sp"
@@ -65,7 +65,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
-        android:text="Meslek hayatında yapmak istediğim şeyler, hali hazırda devam eden ve başlayacak olan web projelerimi yükselterek devamlılığını sağlamak. Öncelikli hedefim ise KPSS'ye hazırlanarak Bilgisayar Teknisyeni olarak devlet memuru olmak."
+        android:text="Hedefim kamu'da bilgisayar mühendisi olmak."
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="16sp"
